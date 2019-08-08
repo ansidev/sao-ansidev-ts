@@ -1,0 +1,30 @@
+{
+  "name": "sao-ansidev-ts",
+  "version": "1.0.0",
+  "description": "ansidev &#39;s scaffolding tool for TypeScript project",
+  "repository": {
+    "url": "ansidev/sao-ansidev-ts",
+    "type": "git"
+  },
+  "author": "Le Minh Tri <ansidev@gmail.com> (https://ansidev.xyz/)",
+  "license": "MIT",
+  "keywords": [
+    "sao-generator",
+    "sao",
+    "scaffolding"
+  ],
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^4.0.0"
+  },
+  "devDependencies": {
+    "ava": "^2.2.0",
+    "sao": "^1.6.1"
+  }
+}

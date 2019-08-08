@@ -1,6 +1,6 @@
 {
   "name": "sao-ansidev-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ansidev &#39;s scaffolding tool for TypeScript project",
   "repository": {
     "url": "ansidev/sao-ansidev-ts",
@@ -15,7 +15,8 @@
   ],
   "files": [
     "saofile.js",
-    "template"
+    "template",
+    "lib"
   ],
   "scripts": {
     "test": "ava"

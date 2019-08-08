@@ -3,6 +3,9 @@
 .settings/
 .vscode/
 
+### IntelliJ IDEA ###
+.idea/
+
 ### macOS ###
 # General
 .DS_Store
